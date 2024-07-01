@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @edagunaydin
-- 👀 I’m interested in Front End Developing
-- 🌱 I’m currently learning HTML, CSS
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: edagunaydin@hotmail.com
+- 👀 I’m interested in Front End Developing.
+- 🌱 I know HTML, CSS and currently learning JS.
+- 📫 You can reach out to me on: edagunaydin@hotmail.com
